@@ -24,7 +24,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: 'Welcome to Your Fancy New Vue.js PWA'
+      msg: 'Welcome to Your Super Fancy New Vue.js PWA'
     }
   }
 }
