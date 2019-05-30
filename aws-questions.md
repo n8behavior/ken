@@ -170,7 +170,7 @@ And start it again
     - Instance store backed
     - EBS backed
 
-1. Explain Geo Restriction in CloudFront
+1. ### Explain Geo Restriction in CloudFront
 
     A Geo-restriction feature helps you to prevent users of specific geographic locations from accessing content which you’re distributing through a CloudFront web distribution.
 
