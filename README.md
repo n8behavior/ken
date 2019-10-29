@@ -15,6 +15,7 @@
   [configured](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
   with a user or role with access above
 - [`npm`](https://www.npmjs.com/get-npm)
+  - Recommend [`nvm`](https://github.com/nvm-sh/nvm) with `--lts`
 - [`git`](https://git-scm.com/downloads)
 
 While not strictly required, I recommend BASH shell for this tutorial.  Mac and
@@ -28,9 +29,9 @@ Globally install [Vue](https://cli.vuejs.org/guide/installation.html) and
 [Amplify](https://aws-amplify.github.io/docs/cli/init#install-the-cli) CLI tools
 
 ```
-sudo npm install -g @vue/cli
-sudo npm install -g @vue/cli-init
-sudo npm install -g @aws-amplify/cli
+npm install -g @vue/cli
+npm install -g @vue/cli-init
+npm install -g @aws-amplify/cli
 amplify configure
 ```
 
